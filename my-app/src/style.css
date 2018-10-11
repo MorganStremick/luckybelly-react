@@ -1,0 +1,14 @@
+.ui.menu.borderless {
+  background-color: black;
+  border:none;
+  box-shadow: none;
+  color: white;
+  border-radius: 0px;
+}
+
+.footer-background {
+  background-color: black;
+  color: white;
+  padding: 20px 0px 20px 0px;
+}
+
